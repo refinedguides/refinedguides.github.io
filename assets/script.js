@@ -2,6 +2,14 @@ const { createApp, ref, onMounted, watch } = Vue;
 
 const videos = [
   {
+    url: "https://youtu.be/UWq_pucHgTE?si=wxGpxmleFjNq1oPW",
+    thumbnail: "https://img.youtube.com/vi/UWq_pucHgTE/0.jpg",
+    source: "https://github.com/refinedguides/country-search",
+    demo: "https://refinedguides.com/country-search/",
+    title: "Create a Country Search & Filter App with Javascript",
+    date: "Aug 27, 2023",
+  },
+  {
     url: "https://youtu.be/hPDhOWkEXG4?si=fYo2S833Lo-Fnp8u",
     thumbnail: "https://img.youtube.com/vi/hPDhOWkEXG4/0.jpg",
     source: "https://github.com/refinedguides/image-editor",
