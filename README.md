@@ -1,11 +1,10 @@
 # Refined Guides
 
-### Overview
+Understanding web development to the basic level.
 
-Refined Guides aims to provide educational content mainly on programming with WordPress. 
+### Social Links
 
-I also plan to create WP plugins and this website will be each plugin's home page and provide documentation.
-
-### Wen Online ?
-
-Coming Soon.
+- [Youtube](https://www.youtube.com/@refinedguides/videos)
+- [Github](https://github.com/refinedguides)
+- [Tiktok](https://www.tiktok.com/@refinedguides)
+- [Website](https://refinedguides.com/)

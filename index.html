@@ -4,79 +4,79 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Refined Guides</title>
-    <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/vue@3.3.4/dist/vue.global.prod.js"></script>
-    <script
-      type="module"
-      src="https://refinedguides.com/assets/script.js"
-    ></script>
-    <link rel="stylesheet" href="https://refinedguides.com/assets/style.css" />
+    <script type="module" src="/assets/script.js"></script>
+    <link rel="stylesheet" href="/assets/style.css" />
+    <link rel="stylesheet" href="/assets/main.css" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+    />
   </head>
-  <body id="app" class="dark:bg-slate-900 dark:text-gray-100 mx-8 lg:mx-0">
-    <nav
-      class="flex items-center justify-between gap-8 py-8 max-w-4xl mx-auto mb-8"
-    >
-      <a href="/">
-        <span class="text-2xl font-semibold">Refined Guides</span>
-      </a>
+  <body id="app" class="bg-slate-100 dark:bg-slate-900 dark:text-gray-100">
+    <nav class="max-w-4xl mx-auto">
+      <div class="flex items-center justify-between gap-8 py-4 mx-8 lg:mx-0">
+        <a href="/">
+          <span class="text-2xl font-semibold">Refined Guides</span>
+        </a>
 
-      <div class="ml-auto">
-        <button
-          @click="changeTheme()"
-          type="button"
-          class="text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-sm p-2.5"
-        >
-          <svg
-            v-if="theme === 'light'"
-            xmlns="http://www.w3.org/2000/svg"
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke-width="1.5"
-            stroke="currentColor"
-            class="w-6 h-6"
+        <div class="ml-auto">
+          <button
+            @click="changeTheme()"
+            type="button"
+            class="text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-sm p-2.5"
           >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              d="M21.752 15.002A9.718 9.718 0 0118 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 003 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 009.002-5.998z"
-            />
-          </svg>
+            <svg
+              v-if="theme === 'light'"
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke-width="1.5"
+              stroke="currentColor"
+              class="w-6 h-6"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                d="M21.752 15.002A9.718 9.718 0 0118 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 003 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 009.002-5.998z"
+              />
+            </svg>
 
-          <svg
-            v-else
-            xmlns="http://www.w3.org/2000/svg"
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke-width="1.5"
-            stroke="currentColor"
-            class="w-6 h-6"
-          >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              d="M12 3v2.25m6.364.386l-1.591 1.591M21 12h-2.25m-.386 6.364l-1.591-1.591M12 18.75V21m-4.773-4.227l-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0z"
-            />
-          </svg>
-        </button>
+            <svg
+              v-else
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke-width="1.5"
+              stroke="currentColor"
+              class="w-6 h-6"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                d="M12 3v2.25m6.364.386l-1.591 1.591M21 12h-2.25m-.386 6.364l-1.591-1.591M12 18.75V21m-4.773-4.227l-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0z"
+              />
+            </svg>
+          </button>
+        </div>
       </div>
     </nav>
 
+    <header class="bg-gray-200 dark:bg-slate-950 mb-8">
+      <section class="mx-auto max-w-4xl py-12">
+        <h2 class="font-semibold text-center text-4xl">Javascript Projects</h2>
+      </section>
+    </header>
+
     <main class="mx-auto max-w-4xl">
-      <section class="">
-        <h2 class="font-semibold mb-6 text-center text-4xl">
-          Javascript Projects
-        </h2>
+      <section class="mx-8 lg:mx-0">
         <div class="grid grid-cols-1 gap-6 md:grid-cols-3">
-          <a
+          <article
+            class="overflow-hidden rounded-lg border bg-white dark:border-gray-900 shadow-sm dark:bg-slate-700 transition hover:-translate-y-2 hover:shadow-xl"
             v-for="(video, index) in videos"
             :key="index"
-            :href="video.url"
-            class="transition hover:-translate-y-2"
-            target="_blank"
           >
-            <article
-              class="overflow-hidden rounded-lg border dark:border-gray-900 shadow-sm dark:bg-slate-700"
-            >
+            <a :href="video.url" target="_blank">
               <div class="aspect-video">
                 <img
                   class="h-full w-full object-cover object-center"
@@ -84,14 +84,35 @@
                   :alt="video.title"
                 />
               </div>
-              <div class="p-6">
-                <time class="mb-2 text-xs uppercase text-slate-400">
-                  {{video.date}}
-                </time>
+            </a>
+            <div class="p-6">
+              <time class="mb-2 text-xs uppercase text-slate-400">
+                {{video.date}}
+              </time>
+              <a :href="video.url" target="_blank">
                 <h3 class="font-semibold mb-1 text-lg">{{video.title}}</h3>
-              </div>
-            </article>
-          </a>
+              </a>
+              <p class="flex items-center justify-between gap-3 py-2 text-sm">
+                <a
+                  :href="video.source"
+                  title="Source"
+                  class="text-gray-400 hover:text-gray-600 dark:hover:text-white flex items-center gap-2"
+                  target="_blank"
+                >
+                  <i class="bx bxl-github bx-sm"></i>
+                  <span>Source</span>
+                </a>
+                <a
+                  :href="video.demo"
+                  title="Live Demo"
+                  class="text-gray-400 hover:text-gray-600 dark:hover:text-white flex items-center gap-2"
+                >
+                  <i class="bx bx-link bx-sm"></i>
+                  <span>Live Demo</span>
+                </a>
+              </p>
+            </div>
+          </article>
         </div>
       </section>
     </main>
