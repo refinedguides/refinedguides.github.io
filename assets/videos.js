@@ -1,5 +1,13 @@
 export default [
   {
+    url: "https://youtu.be/3j3JEprZkIw?si=OoMEvDqU7NorDd6V",
+    thumbnail: "https://img.youtube.com/vi/3j3JEprZkIw/0.jpg",
+    source: "https://github.com/refinedguides/bmr-calculator",
+    demo: "https://refinedguides.com/bmr-calculator/",
+    title: "How to Create a BMR Calculator in Javascript",
+    date: "Sep 07, 2023",
+  },
+  {
     url: "https://youtu.be/UWq_pucHgTE?si=wxGpxmleFjNq1oPW",
     thumbnail: "https://img.youtube.com/vi/UWq_pucHgTE/0.jpg",
     source: "https://github.com/refinedguides/country-search",
