@@ -1,5 +1,13 @@
 export default [
   {
+    url: "https://youtu.be/nSS4Y1an8j4?si=A796WqSLWdy7w_8o",
+    thumbnail: "https://img.youtube.com/vi/nSS4Y1an8j4/0.jpg",
+    source: "https://github.com/refinedguides/image-search",
+    demo: "https://refinedguides.com/image-search/",
+    title: "Create an Image Search with Pexels API",
+    date: "Sep 15, 2023",
+  },
+  {
     url: "https://youtu.be/3j3JEprZkIw?si=OoMEvDqU7NorDd6V",
     thumbnail: "https://img.youtube.com/vi/3j3JEprZkIw/0.jpg",
     source: "https://github.com/refinedguides/bmr-calculator",
