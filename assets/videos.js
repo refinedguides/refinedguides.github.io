@@ -1,5 +1,13 @@
 export default [
   {
+    url: "https://youtu.be/dtv1TcmTJ1I?si=KnRVgs2JszKqNrzs",
+    thumbnail: "https://img.youtube.com/vi/dtv1TcmTJ1I/0.jpg",
+    source: "https://github.com/refinedguides/shopping-cart",
+    demo: "https://refinedguides.com/shopping-cart/",
+    title: "Create a Dynamic E-Commerce Shopping Cart in Javascript",
+    date: "Sep 27, 2023",
+  },
+  {
     url: "https://youtu.be/nSS4Y1an8j4?si=A796WqSLWdy7w_8o",
     thumbnail: "https://img.youtube.com/vi/nSS4Y1an8j4/0.jpg",
     source: "https://github.com/refinedguides/image-search",
