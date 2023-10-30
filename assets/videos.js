@@ -1,5 +1,30 @@
 export default [
   {
+    url: "https://youtu.be/pYbNEkYil5Q?si=rR2qyLJGHxrjW9fq",
+    thumbnail: "https://img.youtube.com/vi/pYbNEkYil5Q/0.jpg",
+    source: "https://github.com/refinedguides/testimonial-slider",
+    demo: "https://refinedguides.com/testimonial-slider/",
+    title:
+      "Javascript Testimonial Slider: Prev/Next, Dots, and Touch Navigation",
+    date: "Oct 30, 2023",
+  },
+  {
+    url: "https://youtu.be/4VEuswh9ymk?si=chRimttDW9wF38mJ",
+    thumbnail: "https://img.youtube.com/vi/4VEuswh9ymk/0.jpg",
+    source: "https://github.com/refinedguides/tip-calculator",
+    demo: "https://refinedguides.com/tip-calculator/",
+    title: "Build a Tip Calculator in Javascript",
+    date: "Oct 19, 2023",
+  },
+  {
+    url: "https://youtu.be/BdxpX0130rM?si=mWjUwWKH_NkpP2eu",
+    thumbnail: "https://img.youtube.com/vi/BdxpX0130rM/0.jpg",
+    source: "https://github.com/refinedguides/currency-converter",
+    demo: "https://refinedguides.com/currency-converter/",
+    title: "Create a Currency Converter in Javascript",
+    date: "Oct 10, 2023",
+  },
+  {
     url: "https://youtu.be/dtv1TcmTJ1I?si=KnRVgs2JszKqNrzs",
     thumbnail: "https://img.youtube.com/vi/dtv1TcmTJ1I/0.jpg",
     source: "https://github.com/refinedguides/shopping-cart",
