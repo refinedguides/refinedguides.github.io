@@ -1,5 +1,13 @@
 export default [
   {
+    url: "https://youtu.be/vcIAWXLAxLs?si=pYGCaDjN7d3F0BuZ",
+    thumbnail: "https://img.youtube.com/vi/vcIAWXLAxLs/0.jpg",
+    source: "https://github.com/refinedguides/simple-calculator",
+    demo: "https://refinedguides.com/simple-calculator/",
+    title: "Build a Simple Calculator in Javascript",
+    date: "Nov 15, 2023",
+  },
+  {
     url: "https://youtu.be/pYbNEkYil5Q?si=rR2qyLJGHxrjW9fq",
     thumbnail: "https://img.youtube.com/vi/pYbNEkYil5Q/0.jpg",
     source: "https://github.com/refinedguides/testimonial-slider",
