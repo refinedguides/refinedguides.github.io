@@ -1,5 +1,13 @@
 export default [
   {
+    url: "https://youtu.be/ruHFC_AeyDw?si=okJLQBL-6206WwOX",
+    thumbnail: "https://img.youtube.com/vi/ruHFC_AeyDw/0.jpg",
+    source: "https://github.com/refinedguides/responsive-navbar",
+    demo: "https://refinedguides.com/responsive-navbar/",
+    title: "Build a Responsive Navbar with HTML, CSS, and JavaScript",
+    date: "Nov 24, 2023",
+  },
+  {
     url: "https://youtu.be/vcIAWXLAxLs?si=pYGCaDjN7d3F0BuZ",
     thumbnail: "https://img.youtube.com/vi/vcIAWXLAxLs/0.jpg",
     source: "https://github.com/refinedguides/simple-calculator",
