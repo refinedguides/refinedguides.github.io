@@ -1,5 +1,13 @@
 export default [
   {
+    url: "https://youtu.be/IP7g2t6ct8k?si=Viv0N3ANlZJgBcIs",
+    thumbnail: "https://img.youtube.com/vi/IP7g2t6ct8k/0.jpg",
+    source: "https://github.com/refinedguides/music-player",
+    demo: "https://refinedguides.com/music-player/",
+    title: "Build a Dynamic Web Music Player with Javascript",
+    date: "Dec 10, 2023",
+  },
+  {
     url: "https://youtu.be/ruHFC_AeyDw?si=okJLQBL-6206WwOX",
     thumbnail: "https://img.youtube.com/vi/ruHFC_AeyDw/0.jpg",
     source: "https://github.com/refinedguides/responsive-navbar",
