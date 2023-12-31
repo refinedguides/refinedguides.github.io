@@ -1,5 +1,13 @@
 export default [
   {
+    url: "https://youtu.be/xbFwTNOjJEw?si=OLNbLf7S4PeAJv8e",
+    thumbnail: "https://img.youtube.com/vi/xbFwTNOjJEw/0.jpg",
+    source: "https://github.com/refinedguides/countdown-timer",
+    demo: "https://refinedguides.com/countdown-timer/",
+    title: "Build a Countdown Timer in Javascript",
+    date: "Dec 31, 2023",
+  },
+  {
     url: "https://youtu.be/IP7g2t6ct8k?si=Viv0N3ANlZJgBcIs",
     thumbnail: "https://img.youtube.com/vi/IP7g2t6ct8k/0.jpg",
     source: "https://github.com/refinedguides/music-player",
