@@ -1,5 +1,29 @@
 export default [
   {
+    url: "https://youtu.be/euZ_HbBE2fI?si=ZzOdBEhvgbSWsYeF",
+    thumbnail: "https://img.youtube.com/vi/ZzOdBEhvgbSWsYeF/0.jpg",
+    source: "https://github.com/refinedguides/theme-switcher",
+    demo: "https://refinedguides.com/theme-switcher/",
+    title: "Build a Light/Dark Mode Theme Switcher in Javascript",
+    date: "Feb 02, 2024",
+  },
+  {
+    url: "https://youtu.be/CCtgLbL4qE8?si=Z9i02ht8ZrKwIxde",
+    thumbnail: "https://img.youtube.com/vi/CCtgLbL4qE8/0.jpg",
+    source: "https://github.com/refinedguides/step-progress",
+    demo: "https://refinedguides.com/step-progress/",
+    title: "Create a Multi-Step Progress Bar with Javascript",
+    date: "Jan 25, 2024",
+  },
+  {
+    url: "https://youtu.be/g_0KXzvgVPg?si=2ix9A6Ms4ZbsBO3n",
+    thumbnail: "https://img.youtube.com/vi/g_0KXzvgVPg/0.jpg",
+    source: "https://github.com/refinedguides/memory-game",
+    demo: "https://refinedguides.com/memory-game/",
+    title: "Create a Memory Game with Javascript",
+    date: "Jan 14, 2024",
+  },
+  {
     url: "https://youtu.be/xbFwTNOjJEw?si=OLNbLf7S4PeAJv8e",
     thumbnail: "https://img.youtube.com/vi/xbFwTNOjJEw/0.jpg",
     source: "https://github.com/refinedguides/countdown-timer",
