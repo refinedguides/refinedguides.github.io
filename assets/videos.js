@@ -1,7 +1,7 @@
 export default [
   {
     url: "https://youtu.be/euZ_HbBE2fI?si=ZzOdBEhvgbSWsYeF",
-    thumbnail: "https://img.youtube.com/vi/ZzOdBEhvgbSWsYeF/0.jpg",
+    thumbnail: "https://img.youtube.com/vi/euZ_HbBE2fI/0.jpg",
     source: "https://github.com/refinedguides/theme-switcher",
     demo: "https://refinedguides.com/theme-switcher/",
     title: "Build a Light/Dark Mode Theme Switcher in Javascript",
