@@ -1,5 +1,13 @@
 export default [
   {
+    url: "https://youtu.be/lDv8YsTgSAs?si=vL0KrNrS5ybqkM-w",
+    thumbnail: "https://img.youtube.com/vi/lDv8YsTgSAs/0.jpg",
+    source: "https://github.com/refinedguides/custom-datepicker",
+    demo: "https://refinedguides.com/custom-datepicker/",
+    title: "Building a Custom Date Picker with Javascript",
+    date: "Feb 20, 2024",
+  },
+  {
     url: "https://youtu.be/euZ_HbBE2fI?si=ZzOdBEhvgbSWsYeF",
     thumbnail: "https://img.youtube.com/vi/euZ_HbBE2fI/0.jpg",
     source: "https://github.com/refinedguides/theme-switcher",
