@@ -1,5 +1,21 @@
 export default [
   {
+    url: "https://youtu.be/27gjyjghX1s?si=enuOoUms0R-NYAef",
+    thumbnail: "https://img.youtube.com/vi/27gjyjghX1s/0.jpg",
+    source: "https://github.com/refinedguides/form-validation",
+    demo: "https://refinedguides.com/form-validation/",
+    title: "How to Implement Form Validation: HTML5 & JavaScript",
+    date: "March 27, 2024",
+  },
+  {
+    url: "https://youtu.be/X9ooIi9A4A8?si=zJ617GPy7IfuVwcm",
+    thumbnail: "https://img.youtube.com/vi/X9ooIi9A4A8/0.jpg",
+    source: "https://github.com/refinedguides/range-slider",
+    demo: "https://refinedguides.com/range-slider/",
+    title: "Build a Price Range Slider in Javascript",
+    date: "March 08, 2024",
+  },
+  {
     url: "https://youtu.be/lDv8YsTgSAs?si=vL0KrNrS5ybqkM-w",
     thumbnail: "https://img.youtube.com/vi/lDv8YsTgSAs/0.jpg",
     source: "https://github.com/refinedguides/custom-datepicker",
