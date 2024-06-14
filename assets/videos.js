@@ -1,5 +1,13 @@
 export default [
   {
+    url: "https://youtu.be/_oZZZV7dIdQ?si=v0afcOojYoqfkOel",
+    thumbnail: "https://img.youtube.com/vi/_oZZZV7dIdQ/0.jpg",
+    source: "https://github.com/refinedguides/analog-clock",
+    demo: "https://refinedguides.com/analog-clock/",
+    title: "Build an Analog Clock with Javascript",
+    date: "June 15, 2024",
+  },
+  {
     url: "https://youtu.be/27gjyjghX1s?si=enuOoUms0R-NYAef",
     thumbnail: "https://img.youtube.com/vi/27gjyjghX1s/0.jpg",
     source: "https://github.com/refinedguides/form-validation",
