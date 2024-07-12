@@ -1,7 +1,7 @@
 export default [
   {
-    url: "https://youtu.be/Eucy6ZgX3lo",
-    thumbnail: "https://img.youtube.com/vi/Eucy6ZgX3lo/0.jpg",
+    url: "https://youtu.be/NZNluFpH4FA",
+    thumbnail: "https://img.youtube.com/vi/NZNluFpH4FA/0.jpg",
     source: "https://github.com/refinedguides/multistep-form",
     demo: "https://refinedguides.com/multistep-form/",
     title: "Build a Multi Step Form with Validation using Javascript",
