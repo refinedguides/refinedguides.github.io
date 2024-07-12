@@ -1,5 +1,13 @@
 export default [
   {
+    url: "https://youtu.be/Eucy6ZgX3lo",
+    thumbnail: "https://img.youtube.com/vi/Eucy6ZgX3lo/0.jpg",
+    source: "https://github.com/refinedguides/multistep-form",
+    demo: "https://refinedguides.com/multistep-form/",
+    title: "Build a Multi Step Form with Validation using Javascript",
+    date: "July 12, 2024",
+  },
+  {
     url: "https://youtu.be/_oZZZV7dIdQ?si=v0afcOojYoqfkOel",
     thumbnail: "https://img.youtube.com/vi/_oZZZV7dIdQ/0.jpg",
     source: "https://github.com/refinedguides/analog-clock",
