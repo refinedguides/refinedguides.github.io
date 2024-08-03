@@ -1,5 +1,13 @@
 export default [
   {
+    url: "https://youtu.be/ZZk6vVUeD3Y",
+    thumbnail: "https://img.youtube.com/vi/ZZk6vVUeD3Y/0.jpg",
+    source: "https://github.com/refinedguides/sortable-list",
+    demo: "https://refinedguides.com/sortable-list/",
+    title: "Create a Dynamic Sortable List in Javascript",
+    date: "August 03, 2024",
+  },
+  {
     url: "https://youtu.be/NZNluFpH4FA",
     thumbnail: "https://img.youtube.com/vi/NZNluFpH4FA/0.jpg",
     source: "https://github.com/refinedguides/multistep-form",
