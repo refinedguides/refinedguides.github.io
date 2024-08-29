@@ -1,5 +1,13 @@
 export default [
   {
+    url: "https://youtu.be/LW_6_P-ePPY",
+    thumbnail: "https://img.youtube.com/vi/LW_6_P-ePPY/0.jpg",
+    source: "https://github.com/refinedguides/tierlist-maker",
+    demo: "https://refinedguides.com/tierlist-maker/",
+    title: "How to Build a Tier List Maker using Javascript",
+    date: "August 29, 2024",
+  },
+  {
     url: "https://youtu.be/ZZk6vVUeD3Y",
     thumbnail: "https://img.youtube.com/vi/ZZk6vVUeD3Y/0.jpg",
     source: "https://github.com/refinedguides/sortable-list",
