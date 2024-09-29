@@ -1,5 +1,13 @@
 export default [
   {
+    url: "https://youtu.be/V2wIK2lBGgk",
+    thumbnail: "https://img.youtube.com/vi/V2wIK2lBGgk/0.jpg",
+    source: "https://github.com/refinedguides/kanban-board",
+    demo: "https://refinedguides.com/kanban-board/",
+    title: "How to Build a Kanban Board with Javascript",
+    date: "September 29, 2024",
+  },
+  {
     url: "https://youtu.be/LW_6_P-ePPY",
     thumbnail: "https://img.youtube.com/vi/LW_6_P-ePPY/0.jpg",
     source: "https://github.com/refinedguides/tierlist-maker",
