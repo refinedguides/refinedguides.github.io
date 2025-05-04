@@ -1,5 +1,14 @@
 export default [
   {
+    url: "https://youtu.be/nYkfP2lSpM4",
+    thumbnail: "https://img.youtube.com/vi/nYkfP2lSpM4/0.jpg",
+    source: "https://buymeacoffee.com/refinedguides/e/396849",
+    demo: null,
+    title:
+      "Build a Date Range Picker in JavaScript – No Libraries | Full Tutorial",
+    date: "April 13, 2025",
+  },
+  {
     url: "https://youtu.be/V2wIK2lBGgk",
     thumbnail: "https://img.youtube.com/vi/V2wIK2lBGgk/0.jpg",
     source: "https://github.com/refinedguides/kanban-board",
